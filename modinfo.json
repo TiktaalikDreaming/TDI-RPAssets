@@ -1,0 +1,18 @@
+{
+	"name": "TDIRPAssets",
+	"description": "Assorted RP Assets.\nIncludes bandage pieces as armour and accessory as needed.  Accessories based on Whiskey's accessory system\nDiscord https://discord.gg/XEUZxZRVF9",
+	"changeNote": "Normal map added to the super lazy texture for bandages\nAdd Silk onto Tanner's Table again\nAdded a head wound of arguable seriousness",
+	"author": "Tiktaalik Dreaming",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 221202,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "2872998284",
+	"steamVisibility": 0,
+	"folderName": "TDIRPAssets",
+	"revisionNumber": 437229,
+	"snapshotId": 35533,
+	"fileSize": 256
+}
