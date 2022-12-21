@@ -1,7 +1,7 @@
 {
 	"name": "TDIRPAssets",
 	"description": "Assorted RP Assets.\nIncludes bandage pieces as armour and accessory as needed.\nDiscord https://discord.gg/XEUZxZRVF9\n\nAccessories based on Whiskey's accessory system, big thanks to Whiskey for creating it, and letting others use it.  Accessory mod here https://steamcommunity.com/sharedfiles/filedetails/?id=2098700751\nWhiskey's Discord https://discord.gg/tAJZAjq\n",
-	"changeNote": "Aquilonian and Brythunian weapon sets added.\n\nNew devkit addressing issues with ModsShared and the older list system for ignoring overlapping build pieces\nRecompiling due to an abundance of caution.  Both components updated are actually in use in this mod, although I've not had the trouble it fixes.  The overlapping build is there simply because I copied what Funcom had.\n\nAlso, marking as v1.0 - this isn't what I'd call out of beta for something I'd work on in my job, but it's quite frankly about as good as it's going to get for me doing CE mods.\n",
+	"changeNote": "Adding Ophir, one rapier, one \"parrying\" dagger and one buckler.\nAdding Stygian khopesh, axe, and dual daggers (Princess Ito's, with bonus fantasy bling)",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
