@@ -1,7 +1,7 @@
 {
 	"name": "TDIRPAssets",
 	"description": "Assorted RP Assets.\nIncludes bandage pieces as armour and accessory as needed.\nDiscord https://discord.gg/XEUZxZRVF9\n\nWeapons are *mostly* the same as my weapon pack, but \"balanced\" by giving them mostly the same stats as Star metal, and with the texture sets \"blinged\" up for the more fantasy settings.  I recommend against using both mods.\n\nThanks to Tuka for the dragon tattoo image\n\nAccessories based on Whiskey's accessory system, big thanks to Whiskey for creating it, and letting others use it.  Accessory mod here https://steamcommunity.com/sharedfiles/filedetails/?id=2098700751\nWhiskey's Discord https://discord.gg/tAJZAjq\n",
-	"changeNote": "Messed up the accessory system and fixing.  Was missing the UI table merge",
+	"changeNote": "Messed up the accessory system and fixing.  Was missing the UI table merge.\nSome fattening of female leg bandages to deal with Buttermilk legs\nFixed mitten bandages, not finished yet.\nAdded entertainment practice items and feats",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
