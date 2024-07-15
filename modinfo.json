@@ -6,13 +6,13 @@
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 4,
-	"versionBuild": 2407030,
+	"versionBuild": 2407160,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2898236385",
 	"steamTestLivePublishedFileId": "2872998284",
 	"steamVisibility": 0,
 	"folderName": "TDIRPAssets",
-	"revisionNumber": 894069,
-	"snapshotId": 41569,
+	"revisionNumber": 897902,
+	"snapshotId": 41650,
 	"fileSize": 256
 }
