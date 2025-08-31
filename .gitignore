@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Licensed Copyrighted assets
+Local/3D/PlateHarness/*
+Local/2D/Fonts/*
